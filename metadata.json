@@ -1,0 +1,5 @@
+{
+  "name": "CourtScope: Basketball Stats Lab",
+  "description": "An AI assistant that turns publicly available basketball statistics into analytical angles for informational purposes only.",
+  "requestFramePermissions": []
+}
